@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Sat Oct  7 11:56:23 2023
+# Process ID: 4620
+# Current directory: C:/Users/yash4/Projects/labH2/src/lab-h2/lab-h2.runs/synth_1
+# Command line: vivado.exe -log Stopwatch.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Stopwatch.tcl
+# Log file: C:/Users/yash4/Projects/labH2/src/lab-h2/lab-h2.runs/synth_1/Stopwatch.vds
+# Journal file: C:/Users/yash4/Projects/labH2/src/lab-h2/lab-h2.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source Stopwatch.tcl -notrace

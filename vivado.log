@@ -1,0 +1,29 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Sat Oct  7 11:54:44 2023
+# Process ID: 940
+# Current directory: C:/Users/yash4/Projects/labH2/src/lab-h2
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent5228 C:\Users\yash4\Projects\labH2\src\lab-h2\lab-h2.xpr
+# Log file: C:/Users/yash4/Projects/labH2/src/lab-h2/vivado.log
+# Journal file: C:/Users/yash4/Projects/labH2/src/lab-h2\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/yash4/Projects/labH2/src/lab-h2/lab-h2.xpr
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2020.2/data/ip'.
+open_project: Time (s): cpu = 00:00:03 ; elapsed = 00:00:09 . Memory (MB): peak = 1067.023 ; gain = 0.000
+update_compile_order -fileset sources_1
+reset_run synth_1
+launch_runs synth_1 -jobs 8
+[Sat Oct  7 11:56:19 2023] Launched synth_1...
+Run output will be captured here: C:/Users/yash4/Projects/labH2/src/lab-h2/lab-h2.runs/synth_1/runme.log
+launch_runs impl_1 -jobs 8
+[Sat Oct  7 11:57:56 2023] Launched impl_1...
+Run output will be captured here: C:/Users/yash4/Projects/labH2/src/lab-h2/lab-h2.runs/impl_1/runme.log
+exit
+INFO: [Common 17-206] Exiting Vivado at Sat Oct  7 11:59:33 2023...

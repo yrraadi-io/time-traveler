@@ -1,0 +1,12 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/Users/yash4/Projects/labH2/src/lab-h2/lab-h2.gen/sources_1/ip/clk_wiz_0/clk_wiz_0_sim_netlist.v,1696278761,verilog,,C:/Users/yash4/Projects/labH2/src/lab-h2/lab-h2.srcs/sources_1/imports/src/BCDToLED.v,,clk_wiz_0;clk_wiz_0_clk_wiz_0_clk_wiz,,,../../../../lab-h2.gen/sources_1/ip/clk_wiz_0,,,,,
+C:/Users/yash4/Projects/labH2/src/lab-h2/lab-h2.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
+C:/Users/yash4/Projects/labH2/src/lab-h2/lab-h2.srcs/sim_1/imports/src/Counter_tb.v,1696271822,verilog,,,,Counter_tb,,,../../../../lab-h2.gen/sources_1/ip/clk_wiz_0,,,,,
+C:/Users/yash4/Projects/labH2/src/lab-h2/lab-h2.srcs/sources_1/imports/src/BCDToLED.v,1695216593,verilog,,C:/Users/yash4/Projects/labH2/src/lab-h2/lab-h2.srcs/sources_1/imports/src/ClockDivider.v,,BCDToLED,,,../../../../lab-h2.gen/sources_1/ip/clk_wiz_0,,,,,
+C:/Users/yash4/Projects/labH2/src/lab-h2/lab-h2.srcs/sources_1/imports/src/ClockDivider.v,1696280290,verilog,,C:/Users/yash4/Projects/labH2/src/lab-h2/lab-h2.srcs/sources_1/imports/src/Counter.v,,ClockDivider,,,../../../../lab-h2.gen/sources_1/ip/clk_wiz_0,,,,,
+C:/Users/yash4/Projects/labH2/src/lab-h2/lab-h2.srcs/sources_1/imports/src/Counter.v,1696282089,verilog,,C:/Users/yash4/Projects/labH2/src/lab-h2/lab-h2.srcs/sim_1/imports/src/Counter_tb.v,,Counter,,,../../../../lab-h2.gen/sources_1/ip/clk_wiz_0,,,,,
+C:/Users/yash4/Projects/labH2/src/lab-h2/lab-h2.srcs/sources_1/imports/src/DisplayRotator.v,1696271822,verilog,,C:/Users/yash4/Projects/labH2/src/lab-h2/lab-h2.srcs/sources_1/imports/src/Stopwatch.v,,DisplayRotator,,,../../../../lab-h2.gen/sources_1/ip/clk_wiz_0,,,,,
+C:/Users/yash4/Projects/labH2/src/lab-h2/lab-h2.srcs/sources_1/imports/src/Stopwatch.v,1696271822,verilog,,,,Stopwatch,,,../../../../lab-h2.gen/sources_1/ip/clk_wiz_0,,,,,
